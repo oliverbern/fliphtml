@@ -1,0 +1,41 @@
+body {
+	background-color: #EBEBEB;
+}
+
+.navbar {
+	border-radius: 0;
+}
+
+.nav70 {
+	width: 70%;
+	text-align: center;
+}
+
+.jumbotron {
+	background-image: url('../images/homebackground.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.advantagespart h1 {
+	margin-bottom: 20px;
+}
+
+.advpoint h3 {
+	margin-bottom: 2%;
+}
+
+.imageadv {
+	width: 130px;
+	height: auto;
+	text-align: center;
+}
+
+.Brand {
+	width: 5%;
+	height: auto;
+}
+
+.categories h1 {
+	margin-bottom: 20px;
+}
