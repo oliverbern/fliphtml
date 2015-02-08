@@ -2,6 +2,11 @@ body {
 	background-color: #EBEBEB;
 }
 
+.brandlogo {
+	width: 35%;
+	height: auto;
+}
+
 .navbar {
 	border-radius: 0;
 }
@@ -15,6 +20,7 @@ body {
 	background-image: url('../images/homebackground.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: 0 25%;
 }
 
 .advantagespart h1 {
@@ -39,3 +45,16 @@ body {
 .categories h1 {
 	margin-bottom: 20px;
 }
+
+.spanheading {
+	background: rgb(0, 0, 0); /* fallback color */
+   	background: rgba(0, 0, 0, 0.7);
+   	color: #fff;
+}
+
+.spansub {
+	background: rgb(0, 0, 0); /* fallback color */
+   	background: rgba(0, 0, 0, 0.7);
+   	color: #fff;
+}
+
